@@ -62,8 +62,14 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 ![Arquivo PDF do modelo logico](https://github.com/zerolevi9/site/blob/adbd3a296b66d0ced82da4b0faa539f3891a0d2d/ModeloLogico.pdf)
 
 
-### 8	MODELO FÍSICO<br>
-![Arquivo SQL do fisico]
-### 9	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-feito no tópico acima
 
+### 8	MODELO FÍSICO<br>
+![Arquivo SQL do fisico](https://github.com/zerolevi9/site/blob/2ebc1333680d2b4e28e81c58bd5c573c7adca122/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
+
+
+
+### 9	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+Feita no tópico acima
+
+### 10	TABELAS E PRINCIPAIS CONSULTAS<br>
+Tambem feita no topico 9
