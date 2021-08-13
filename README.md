@@ -58,5 +58,5 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 
 
 ### 7	MODELO LÓGICO<br>
-![Arquivo MWB do modelo logico]
+![Arquivo MWB do modelo logico](https://github.com/zerolevi9/site/blob/f451c1e27c9fec63768ffe78d5f263387abc6ec9/Modelo%20Logico.mwb)
 ![Arquivo PDF do modelo logico]
