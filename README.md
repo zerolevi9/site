@@ -1,11 +1,13 @@
 # site
 ProjetoIntegrador
 
-1. COMPONENTES
+1.COMPONENTES
 Integrantes do grupo
 Levi Monteiro Silva:zerolevi9@gmail.com
 Marcos Vinicius:marconne195@gmail.com
 Iaggo Rauta:
+
+
 
 2.MINIMUNDO
 O sistema proposto devera agregar vários tipos de publico sendo focado no adolecente. 
@@ -14,6 +16,7 @@ que sera o lugar de recomendação comparando os generos que o proprio viu.
 tambem tera um lugar pra se julgar e comparar a outros animes e também um local para
 o feedback, no seu perfil também tera a data de lançamento de cada anime desejado 
 e assistido recentemente.
+
 
 
 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)
