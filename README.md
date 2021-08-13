@@ -5,7 +5,7 @@ ProjetoIntegrador
 Integrantes do grupo
 >Levi Monteiro Silva: zerolevi9@gmail.com  -
 >Marcos Vinicius: marconne195@gmail.com  -
->Iaggo Rauta: iaggodelimaa@gmail.com
+>Iaggo Rauta: iaggodelimaa@gmail.com -
 
 
 ### 2.MINIMUNDO<br>
