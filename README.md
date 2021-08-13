@@ -41,7 +41,7 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 
 
 
-### 4 TABELA DE DADOS DO SISTEMA:<br>
+### 4.TABELA DE DADOS DO SISTEMA:<br>
 ![Arquivo xlsx tabela pedida](https://github.com/zerolevi9/site/blob/6b0c45c0b80c3e2d7052334239bbd0e8469c0ff6/tabelaPI.xlsx)
 
 
@@ -57,19 +57,19 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 
 
 
-### 7	MODELO LÓGICO<br>
+### 7.MODELO LÓGICO<br>
 ![Arquivo MWB do modelo logico](https://github.com/zerolevi9/site/blob/f451c1e27c9fec63768ffe78d5f263387abc6ec9/Modelo%20Logico.mwb)
 ![Arquivo PDF do modelo logico](https://github.com/zerolevi9/site/blob/adbd3a296b66d0ced82da4b0faa539f3891a0d2d/ModeloLogico.pdf)
 
 
 
-### 8	MODELO FÍSICO<br>
+### 8.MODELO FÍSICO<br>
 ![Arquivo SQL do fisico](https://github.com/zerolevi9/site/blob/2ebc1333680d2b4e28e81c58bd5c573c7adca122/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
 
 
 
-### 9	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+### 9.INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 Feita no tópico acima
 
-### 10	TABELAS E PRINCIPAIS CONSULTAS<br>
+### 10.TABELAS E PRINCIPAIS CONSULTAS<br>
 Tambem feita no topico 8
