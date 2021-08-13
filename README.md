@@ -8,7 +8,6 @@ Integrantes do grupo
 >Iaggo Rauta: iaggodelimaa@gmail.com
 
 
-
 ### 2.MINIMUNDO<br>
 >O sistema proposto devera agregar vários tipos de publico sendo focado no adolecente. 
 Tambem tera um sistema de login onde os usuários terão acesso completo ao site, 
