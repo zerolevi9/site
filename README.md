@@ -72,4 +72,4 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 Feita no tópico acima
 
 ### 10	TABELAS E PRINCIPAIS CONSULTAS<br>
-Tambem feita no topico 9
+Tambem feita no topico 8
