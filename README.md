@@ -53,4 +53,10 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 
 
 ### 6.MODELO CONCEITUAL<br>
-![Arquivo PDF do modelo conceitual]
+![Arquivo PDF do modelo conceitual](https://github.com/zerolevi9/site/blob/d2edf20ce91f44ab687258b1a823aaf4ee5e6b8c/modeloConceitual.pdf)
+
+
+
+### 7	MODELO LÓGICO<br>
+![Arquivo MWB do modelo logico]
+![Arquivo PDF do modelo logico]
