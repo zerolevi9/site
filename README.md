@@ -3,9 +3,9 @@ ProjetoIntegrador
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo
->Levi Monteiro Silva:zerolevi9@gmail.com  -
->Marcos Vinicius:marconne195@gmail.com  -
->Iaggo Rauta:
+>Levi Monteiro Silva: zerolevi9@gmail.com  -
+>Marcos Vinicius: marconne195@gmail.com  -
+>Iaggo Rauta: iaggodelimaa@gmail.com
 
 
 
@@ -64,7 +64,7 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 
 
 ### 8.MODELO FÍSICO<br>
-![Arquivo SQL do fisico](https://github.com/zerolevi9/site/blob/2ebc1333680d2b4e28e81c58bd5c573c7adca122/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
+![Arquivo SQL do modelo  fisico](https://github.com/zerolevi9/site/blob/2ebc1333680d2b4e28e81c58bd5c573c7adca122/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
 
 
 
