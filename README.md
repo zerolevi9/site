@@ -20,7 +20,7 @@ e assistido recentemente.
 
 
 ### 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-![Arquivo PDF do Protótipo Balsamiq feito para Streaming Anime](https://github.com/zerolevi9/site/blob/0394349fa49861f897039467584a532c5d78fb56/Balsamiq.pdf)
+![Arquivo PDF do Balsamiq](https://github.com/zerolevi9/site/blob/0394349fa49861f897039467584a532c5d78fb56/Balsamiq.pdf)
 
 
 
@@ -42,4 +42,7 @@ Sistemas de extras, onde você podera interagir de forma ampliada usando uma pag
 
 
 ### 4 TABELA DE DADOS DO SISTEMA:<br>
-![Arquivo PDF do Protótipo Balsamiq feito para Streaming Anime]
+![Arquivo xlsx tabela pedida](https://github.com/zerolevi9/site/blob/6b0c45c0b80c3e2d7052334239bbd0e8469c0ff6/tabelaPI.xlsx)
+
+ ### 5.PMC<br>
+![Arquivo PDF do PMC]
