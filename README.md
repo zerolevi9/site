@@ -20,4 +20,4 @@ e assistido recentemente.
 
 
 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)
-![Arquivo PDF do Protótipo Balsamiq feito para Streaming Anime](https://github.com/zerolevi9/site/blob/main/Pmc.pdf)
+![Arquivo PDF do Protótipo Balsamiq feito para Streaming Anime](https://github.com/zerolevi9/site/blob/0394349fa49861f897039467584a532c5d78fb56/Balsamiq.pdf)
