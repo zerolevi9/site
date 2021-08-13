@@ -20,3 +20,4 @@ e assistido recentemente.
 
 
 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)
+![Arquivo PDF do Protótipo Balsamiq feito para Streaming Anime]
