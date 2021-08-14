@@ -32,11 +32,12 @@ onde e quando você a acessou nosso dominio pela ultima veze tambem os
 generos recomendados(mais visto por voce)*
 
 >b)
-*Sistemas de login, onde o usuário podera ter acesso das coisas abaixo se ele estiver registrado no site.
-Sistemas de recomendação, será uma parte bem util para otimizar o tempo usado como dito sera para recomendar coisas para o usuário.
-Sistemas de feedback, será um local onde os usuários poderam dar o apoio negativo ou positivo.
-Sistemas de calendário, mostra quando o anime sera lançado de acordo com os mesmo assitido.
-Sistemas de extras, onde você podera interagir de forma ampliada usando uma pagina no facebook e um servidor no discord para jogar entre os usuários.*
+*Acessar a lista de usuários, imprimir nick e a idade.
+Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.
+Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). 
+Mostrar o nome do conteúdo, tipo e classificação.
+Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi visualizada.*
+
 
 
 
