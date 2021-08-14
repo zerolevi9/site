@@ -65,7 +65,7 @@ Acessar a lista de usuários, imprimir nick e a idade.
 
 SELECT nome, idade FROM projeto.usuario
 order by idade;
-![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image5.png)<\br><\br>
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image5.png)<br><br>
 
 Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.
 
