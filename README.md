@@ -32,22 +32,15 @@ onde e quando você a acessou nosso dominio pela ultima veze tambem os
 generos recomendados(mais visto por voce)*
 
 >b)
-*Acessar a lista de usuários, imprimir nick e a idade.
-Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.
-Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). 
-Mostrar o nome do conteúdo, tipo e classificação.
-Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi visualizada*
+>*<ul>
 
+<li>Acessar a lista de usuários, imprimir nick e a idade.</li>
+<li>Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.</li>
+<li>Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). </li>
+<li>Mostrar o nome do conteúdo, tipo e classificação.</li>
+<li>Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi visualizada</li>
 
-Teste 1
-
-*Teste 2*
-<ul>
- <li>poi poi </li>
- <li> poi poi</li>
-</ul>
-
-
+</ul>*
 
 
 ### 4.TABELA DE DADOS DO SISTEMA:<br>
