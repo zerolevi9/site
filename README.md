@@ -33,13 +33,11 @@ generos recomendados(mais visto por voce)*
 
 >b)
 >*<ul>
-
 <li>Acessar a lista de usuários, imprimir nick e a idade.</li>
 <li>Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.</li>
 <li>Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). </li>
 <li>Mostrar o nome do conteúdo, tipo e classificação.</li>
 <li>Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi visualizada</li>
-
 </ul>*
 
 
