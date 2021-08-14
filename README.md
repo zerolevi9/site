@@ -61,90 +61,7 @@ generos recomendados(mais visto por voce)*
 
 
 ### 9.INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-> a e b) Banco de dados:
-'''
-create database Projeto;
-use projeto;
--- -----------------------------------------------------
--- Table Conteudo
--- -----------------------------------------------------
-CREATE table Conteudo (
-  ContId INT NOT NULL,
-  Nome VARCHAR(45) NULL,
-  Classificacao VARCHAR(45) NULL,
-  Tipo VARCHAR(45) NULL,
-  Duracao VARCHAR(45) NULL
-  )
-;
--- -----------------------------------------------------
--- Table UserWatchContent
--- -----------------------------------------------------
-CREATE TABLE UserWatchContent (
-  UsWaId VARCHAR(45) NOT NULL,
-  UserId INT NOT NULL,
-  ContId INT NOT NULL,
-  Data DATE NULL,
-  Usuario VARCHAR(45) NULL,
-  Tempo TIME NULL,
-  Nome VARCHAR(45) NULL
-  )
-;
--- -----------------------------------------------------
--- Table Historico
--- -----------------------------------------------------
-CREATE TABLE Historico (
-  HistId INT NOT NULL,
-  UsWaId VARCHAR(45) NOT NULL,
-  Nome VARCHAR(45) NULL,
-  Usuario VARCHAR(45) NULL,
-  Data DATE NULL,
-  UserId INT NOT NULL,
-  ContId INT NOT NULL)
-;
--- -----------------------------------------------------
--- Table Home
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS Home (
-  HomeId INT NOT NULL,
-  HistId INT NOT NULL,
-  Conteudos VARCHAR(45) NULL,
-  Contatos VARCHAR(45) NULL,
-  Interacoes VARCHAR(45) NULL)
-;
--- -----------------------------------------------------
--- Table Usuario
--- -----------------------------------------------------
-CREATE TABLE Usuario (
-  UserId INT NOT NULL,
-  Nome VARCHAR(45) NULL,
-  Idade INT NULL,
-  Sexo CHAR NULL,
-  HomeId INT NOT NULL)
-;
--- -----------------------------------------------------
--- Table UserComment
--- -----------------------------------------------------
-CREATE TABLE UserComment (
-  CommentId INT NOT NULL,
-  Conteudo_ContId INT NOT NULL,
-  UserId INT NOT NULL,
-  Usuario VARCHAR(45) NULL,
-  Texto VARCHAR(1000) NULL,
-  Data DATE NULL,
-  Likes INT NULL)
-;
--- -----------------------------------------------------
--- Table Mensagem
--- -----------------------------------------------------
-CREATE TABLE Mensagem (
-  MensId INT NOT NULL,
-  RemetId INT NOT NULL,
-  DestId INT NOT NULL,
-  Mensagem VARCHAR(300) NULL,
-  Data DATE NULL,
-  Remetente VARCHAR(45) NULL,
-  VIsualizada CHAR  NULL)
-;
+> a) Inserts:
 INSERT INTO Projeto.conteudo (contid,nome,classificacao,tipo,duracao) VALUES
 	 (2,'One Piece','L','Anime','0:24:12'),
 	 (3,'Boku no Hero','12','FIlme','2:03:00'),
@@ -184,7 +101,6 @@ INSERT INTO Projeto.usuario (userid,nome,idade,sexo,homeid) VALUES
 	 (5,'76Aspt',16,'F',5),
 	 (6,'KimetS2',15,'F',6),
 	 (7,'Henk32',19,'M',7);
-'''
 
 > c) Codigo SQL:
 [SQL](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
