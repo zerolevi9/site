@@ -103,10 +103,10 @@ INSERT INTO Projeto.usuario (userid,nome,idade,sexo,homeid) VALUES
 	 (7,'Henk32',19,'M',7);
 	 
 > b) Output da Restauração do BD :
-[Restauracao](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/restauracao.jpg)
+![Restauracao](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/restauracao.jpg)
 
 > c) Codigo SQL:
-[SQL](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
+![SQL](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
 
 
 ### 10.TABELAS E PRINCIPAIS CONSULTAS<br>
