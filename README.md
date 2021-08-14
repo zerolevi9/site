@@ -61,7 +61,29 @@ generos recomendados(mais visto por voce)*
 
 
 ### 9.INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-Feita no tópico acima
+Acessar a lista de usuários, imprimir nick e a idade.
+
+SELECT nome, idade FROM projeto.usuario
+order by idade;
+
+Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.
+
+SELECT conteudos, Interacoes FROM projeto.home;
+
+Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). 
+
+SELECT usuario, texto, likes FROM projeto.usercomment where likes > 0
+order by likes;
+
+Mostrar o nome do conteúdo, tipo e classificação.
+
+SELECT nome, tipo, Classificacao FROM projeto.conteudo;
+
+Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi visualizada.
+
+SELECT Mensagem, Remetente, VIsualizada FROM projeto.mensagem;
+
+
 
 ### 10.TABELAS E PRINCIPAIS CONSULTAS<br>
 Tambem feita no topico 8
