@@ -31,7 +31,7 @@ e assistido recentemente.
 onde e quando você a acessou nosso dominio pela ultima veze tambem os 
 generos recomendados(mais visto por voce)*
 
->b)Relatorios:<ul><li>Acessar a lista de usuários, imprimir nick e a idade.</li><li>Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.</li><li>Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). </li><li>Mostrar o nome do conteúdo, tipo e classificação.</li><li>Exibir as mensagens enviadas pelos usuários, o remetente e se a mensaõgeesm metente e se a mensaõgeesõme metente e se a mensaõgsõme metente e se a menios, o remetente e se a mensagesi visualizada</li></ul>
+>b)*Relatorsioss:*<ul><li>Acessar a lista de usuários, imprimir nick e a idade.</li><li>Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.</li><li>Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). </li><li>Mostrar o nome do conteúdo, tipo e classificação.</li><li>Exibir as mensagens enviadas pelos usuários, o remetente e se a mensaõgeesm metente e se a mensaõgeesõme metente e se a mensaõgsõme metente e se a menios, o remetente e se a mensagesi visualizada</li></ul>
 
 
 ### 4.TABELA DE DADOS DO SISTEMA:<br>
