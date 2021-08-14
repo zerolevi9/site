@@ -101,6 +101,9 @@ INSERT INTO Projeto.usuario (userid,nome,idade,sexo,homeid) VALUES
 	 (5,'76Aspt',16,'F',5),
 	 (6,'KimetS2',15,'F',6),
 	 (7,'Henk32',19,'M',7);
+	 
+> b) Output da Restauração do BD :
+[Restauracao](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/restauracao.jpg)
 
 > c) Codigo SQL:
 [SQL](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
