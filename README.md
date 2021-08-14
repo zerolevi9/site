@@ -42,10 +42,10 @@ Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi vi
 Teste 1
 
 *Teste 2*
-<ol>
+<ul>
  <li>poi poi </li>
  <li> poi poi</li>
-</ol>
+</ul>
 
 
 
