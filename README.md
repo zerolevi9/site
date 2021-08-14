@@ -19,6 +19,8 @@ e assistido recentemente.
 
 
 ### 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+
+<br><br>![MOCKUPS](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Balsamic.png)
 ![Arquivo PDF do Balsamiq](https://github.com/zerolevi9/site/blob/0394349fa49861f897039467584a532c5d78fb56/Balsamiq.pdf)
 
 
@@ -40,16 +42,21 @@ generos recomendados(mais visto por voce)*
 
  ### 5.PMC<br>
 
+![PMC](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/download.png)
 ![Arquivo PDF do PMC](https://github.com/zerolevi9/site/blob/b5ffdef523d0e70f660d2ce94b6d893d07128cba/Pmc%20(1).pdf)
 
 
 
 ### 6.MODELO CONCEITUAL<br>
+
+![modelo conceitual](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/conceitual.png)
 ![Arquivo PDF do modelo conceitual](https://github.com/zerolevi9/site/blob/d2edf20ce91f44ab687258b1a823aaf4ee5e6b8c/modeloConceitual.pdf)
 
 
 
 ### 7.MODELO LÓGICO<br>
+
+![modelo logico](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/logico.png)
 ![Arquivo MWB do modelo logico](https://github.com/zerolevi9/site/blob/f451c1e27c9fec63768ffe78d5f263387abc6ec9/Modelo%20Logico.mwb)
 ![Arquivo PDF do modelo logico](https://github.com/zerolevi9/site/blob/adbd3a296b66d0ced82da4b0faa539f3891a0d2d/ModeloLogico.pdf)
 
@@ -103,9 +110,11 @@ INSERT INTO Projeto.usuario (userid,nome,idade,sexo,homeid) VALUES
 	 (7,'Henk32',19,'M',7);
 	 
 > b) Output da Restauração do BD :
+
 ![Restauracao](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/restauracao.jpg)
 
 > c) Codigo SQL:
+
 ![SQL](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto%20Integrador%20-%20Codigo%20POSTGRES.sql)
 
 
