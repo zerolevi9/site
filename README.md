@@ -119,6 +119,33 @@ INSERT INTO Projeto.usuario (userid,nome,idade,sexo,homeid) VALUES
 
 
 ### 10.TABELAS E PRINCIPAIS CONSULTAS<br>
+
+### 10.1 TODAS AS TABELAS<br>
+
+SELECT * FROM projeto.conteudo;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta1.jpg)
+
+SELECT * FROM projeto.historico;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta2.jpg)
+
+SELECT * FROM projeto.home;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta3.jpg)
+
+SELECT * FROM projeto.mensagem;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta4.jpg)
+
+SELECT * FROM projeto.usercomment;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta5.jpg)
+
+SELECT * FROM projeto.userwatchcontent;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta6.jpg)
+
+SELECT * FROM projeto.usuario;
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta7.jpg)
+
+
+### 10.2 PRINCIPAIS CONSULTAS<br>
+
 Acessar a lista de usuários, imprimir nick e a idade.
 
 SELECT nome, idade FROM projeto.usuario
