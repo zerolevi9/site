@@ -144,6 +144,7 @@ SELECT * FROM projeto.usuario;
 <br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/consulta7.jpg)
 
 
+
 ### 10.2 PRINCIPAIS CONSULTAS<br>
 
 Acessar a lista de usuários, imprimir nick e a idade.
