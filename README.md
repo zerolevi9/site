@@ -151,23 +151,23 @@ Acessar a lista de usuários, imprimir nick e a idade.
 
 SELECT nome, idade FROM projeto.usuario
 order by idade;
-<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image5.png)
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image1.png)
 
 Acessar a página principal, exibir o conteúdo recomendado e as interações do usuário.
 
 SELECT conteudos, Interacoes FROM projeto.home;
-<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image3.png)
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image2.png)
 
 Exibir o usuário, o comentário feito e interações(apenas exibe se tiver likes). 
 
 SELECT usuario, texto, likes FROM projeto.usercomment where likes > 0
 order by likes;
-<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image4.png)
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image3.png)
 
 Mostrar o nome do conteúdo, tipo e classificação.
 
 SELECT nome, tipo, Classificacao FROM projeto.conteudo;
-<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image2.png)
+<br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/image4.png)
 
 Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi visualizada.
 
