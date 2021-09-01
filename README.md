@@ -179,4 +179,11 @@ SELECT Mensagem, Remetente, VIsualizada FROM projeto.mensagem;
 
 > a) ![ Pdf com código, gráficos e relatórios.](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Colaboratory.pdf)
 
+<br><br>![Relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/relatorio1.jpg)
+<br><br>![Relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/relatorio2.jpg)
+<br><br>![Relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/relatorio3.jpg)
+<br><br>![Relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/relatorio4.jpg)
+<br><br>![Relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/relatorio5.jpg)
+
+
 > b) ![Arquivo do Collab do relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto_Integrador.ipynb) 
