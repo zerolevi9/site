@@ -177,6 +177,6 @@ SELECT Mensagem, Remetente, VIsualizada FROM projeto.mensagem;
 
 ### 11. Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
 
-> a) [](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Colaboratory.pdf) Pdf com código, gráfiscos e relatórios.
+> a) ![ Pdf com código, gráficos e relatórios.](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Colaboratory.pdf)
 
-> b) [](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto_Integrador.ipynb) Arquivo do Collab do relatório
+> b) ![Arquivo do Collab do relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto_Integrador.ipynb) 
