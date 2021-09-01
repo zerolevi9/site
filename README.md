@@ -173,3 +173,8 @@ Exibir as mensagens enviadas pelos usuários, o remetente e se a mensagem foi vi
 
 SELECT Mensagem, Remetente, VIsualizada FROM projeto.mensagem;
 <br><br>![Resultado](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/select11.jpg)
+
+
+### 11 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
+
+
