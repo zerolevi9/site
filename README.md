@@ -190,4 +190,8 @@ SELECT Mensagem, Remetente, VIsualizada FROM projeto.mensagem;
 
 ### 12. Slides e Apresentação em vídeo. <br>
 
-![Arquivo PDF dos slides]
+12.1
+![Arquivo PDF dos slides](https://github.com/zerolevi9/site/blob/06477fd272f0cad69705a91e0adaf584c2241f8c/Slides.pdf)
+
+12.2
+![Link para o video](https://youtu.be/C9y1vvyzwEE)
