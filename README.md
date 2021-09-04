@@ -49,8 +49,8 @@ generos recomendados(mais visto por voce)*
 
 ### 6.MODELO CONCEITUAL<br>
 
-![modelo conceitual](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/conceitual.png)
-![Arquivo PDF do modelo conceitual](https://github.com/zerolevi9/site/blob/d2edf20ce91f44ab687258b1a823aaf4ee5e6b8c/modeloConceitual.pdf)
+![modelo conceitual](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/conceitual1.png)
+
 
 
 
