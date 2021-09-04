@@ -187,3 +187,7 @@ SELECT Mensagem, Remetente, VIsualizada FROM projeto.mensagem;
 
 
 > b) ![Arquivo do Collab do relatório](https://github.com/zerolevi9/site/blob/main/Documento%20sem%20t%C3%ADtulo/images/Projeto_Integrador.ipynb) 
+
+### 12. Slides e Apresentação em vídeo. <br>
+
+![Arquivo PDF dos slides]
